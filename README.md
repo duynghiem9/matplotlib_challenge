@@ -33,9 +33,11 @@ Quartiles, Outliers and Boxplots
 	-make a boxplot for the drugs with the new information gathered above
 	
 Line and Scatter Plots
+
 	- Make line plot for Timepoint vs. Tumor Volume for a specific mouse on Capomulin
 	- Make scatter plot for mouse weight vs. Tumor Volume
 Correlation and Regression:
+
 	- Calculate linear regression for same scatter plot
 	- Calculate correlation coefficient for the relationship
 
